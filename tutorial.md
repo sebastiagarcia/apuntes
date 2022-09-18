@@ -1,7 +1,12 @@
 # Comandos
+# // Configurar Variables Globales (Se realiza la primera vez)
+#  git config --global user.email "santosorlandoavila23@gmail.com"
+#  git config --global user.name "sebastian"
+
 # ls //Listar archivos
 # git init // Iniciar el repositorio
 # git add . // Añade todos los archivos
+# git commit -m "Mi primer envío"
 # H1
 ## H2
 ### H3
